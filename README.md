@@ -6,6 +6,7 @@ N4WB (Net4 WebBrowser) is an open source webbrowser that uses Chromium. It's bui
 
     Due to .NET 4.5 not being easily installed on ReactOS, N4WB uses an outdated and vulnerable Chromium version.
 
+
 ### Prerequisites
 
 - **.NET 4 Runtime** (available through the ReactOS Application manager)
@@ -28,6 +29,12 @@ N4WB (Net4 WebBrowser) is an open source webbrowser that uses Chromium. It's bui
 3. Open the .SLN file in Visual Studio (version 2022 is tested) and click start (this will compile to the bin->x86->debug folder)
 
 > Please note: You will have to install cef.redist.x64.3.2623.1401, cef.redist.x86.3.2623.1401, CefSharp.Common.49.0.1, and CefSharp.WinForms.49.0.1 via the NUGET package manager.
+
+
+### Images
+![Bing being shown](https://raw.githubusercontent.com/ad4mh3/N4WB/main/Screenshots/bing.png "Bing running on N4WB in ReactOS")
+![Google being shown](https://raw.githubusercontent.com/ad4mh3/N4WB/main/Screenshots/google.png "Google running on N4WB in ReactOS")
+![Youtube being shown](https://raw.githubusercontent.com/ad4mh3/N4WB/main/Screenshots/youtube.png "Youtube running (and playing video!) on N4WB in ReactOS")
 
 ### Copyright
 
