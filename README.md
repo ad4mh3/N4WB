@@ -27,7 +27,7 @@ N4WB (Net4 WebBrowser) is an open source webbrowser that uses Chromium. It's bui
 2. Extract to a new folder on your desktop
 3. Open the .SLN file in Visual Studio (version 2022 is tested) and click start (this will compile to the bin->x86->debug folder)
 
-
+> Please note: You will have to install cef.redist.x64.3.2623.1401, cef.redist.x86.3.2623.1401, CefSharp.Common.49.0.1, and CefSharp.WinForms.49.0.1 via the NUGET package manager.
 
 ### Copyright
 
