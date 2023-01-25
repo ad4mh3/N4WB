@@ -18,7 +18,7 @@ N4WB (Net4 WebBrowser) is an open source webbrowser that uses Chromium. It's bui
 
 1. Download the entirety of this project as a zip file (Code -> Download ZIP)
 2. Extract to a new folder on your desktop
-3. Run "N4WB Browser.exe"
+3. Run "N4WB Browser.exe" that resides in the release folder
 
 
 
